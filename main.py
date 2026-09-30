@@ -19,14 +19,14 @@ import os
 #                    BOT TOKEN
 # ==================================================
 
-TOKEN = os.environ["8895569958:AAGm5jkKUNAVXTLxwCxcDYOl1TOCb5YqUxY"]
+TOKEN = os.environ["BOT_TOKEN"]
 
 
 # ==================================================
 #                  ADMIN ID
 # ==================================================
 
-ADMIN_ID = int(os.environ["8249814962"])
+ADMIN_ID = int(os.environ["ADMIN_ID"])
 
 
 # ==================================================
