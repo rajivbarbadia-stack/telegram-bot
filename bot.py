@@ -46,7 +46,7 @@ QR_4 = "https://postimg.cc/bSTSsh6G"
 # ==================================================
 
 DEMO_CHANNEL = "https://t.me/predemogroupp"
-INFO_CHANNEL = "https://t.me/your_info_channel"
+INFO_CHANNEL = "https://t.me/howtogetpre"
 ADMIN_USERNAME = "https://t.me/mms744"
 
 
